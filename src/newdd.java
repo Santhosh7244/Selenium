@@ -1,7 +1,11 @@
 public class newdd {
-    private static void newdd(String[] args) {
+    public static void main(String[] args) {
         int a= 123;
+        int b=55;
+        System.out.println(b);
+        System.out.println("changes made");
         System.out.println(a);
+
     }
 
 }
